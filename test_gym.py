@@ -1,8 +1,6 @@
 from __future__ import division, print_function
 import gym
 
-
-
 def test_deterministic():
     env = gym.make('finite-mdp-v0')
     env.configure({
