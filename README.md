@@ -16,4 +16,4 @@ You can see that we have only one algorithm in this repository, if you want to c
 - Create a PR for respective issue if required
 
 <br> <br> <br>
-<Happy Coding/>
+`<Happy Coding/>`
