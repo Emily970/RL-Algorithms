@@ -1,5 +1,5 @@
 # Reinforcement Learning Algorithms
-This is the series of Reinforcement Learning algorithms implemented in python and gym(gym fot environment).As of now, i have only implemented MDP(Markov Decision Process). It is in development stage. I will also write blogs in medium for each algorithm, i upload(MDP blogs are on the way). 
+This is the series of Reinforcement Learning algorithms implemented in python and gym(gym fot environment).As of now, i have only implemented MDP(Markov Decision Process). It is in development stage. I will also write blogs in medium for each algorithm i upload(MDP blogs are on the way). 
 ### What is Reinforcement Learning?
 Reinforcement Learning is a type of Machine Learning, and thereby also a branch of Artificial Intelligence. It allows machines and software agents to automatically determine the ideal behaviour within a specific context, in order to maximize its performance. Simple reward feedback is required for the agent to learn its behaviour; this is known as the reinforcement signal. <br>
 ![](images/rl1.1.png)
