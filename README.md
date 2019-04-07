@@ -17,8 +17,10 @@ You can see that we have only one algorithm in this repository, if you want to c
 
 #### References
   - [Introduction to Reinforcement Learning by David Silver, DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-  - [Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](Richard S. Sutton and Andrew G. Barto)
-  - I have used various open source repositories to learn to implement Reinforcement Learning algorithms. Some are [aima-python](https://github.com/aimacode/aima-python), [ShangtomZhang repo](https://github.com/dshahid380/reinforcement-learning-an-introduction), 
+  - [Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+  - I have used open source repos to learn to implemen RL algorithms. Some are [aima-python](https://github.com/aimacode/aima-python), [ShangtomZhang repo](https://github.com/dshahid380/reinforcement-learning-an-introduction).
+  - OpenAI-gym docs
+  - Siraj Rawal- Move37 Course
 
 <br> <br> <br>
 `<Happy Coding/>`
